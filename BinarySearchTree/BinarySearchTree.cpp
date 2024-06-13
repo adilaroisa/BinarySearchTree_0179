@@ -18,6 +18,20 @@ public:
     }
 };
 
+class BinaryTree
+{
+public:
+    Node* ROOT;
+
+    BinaryTree()
+    {
+        ROOT = nullptr; // Initializin ROOT to null
+    }
+
+    
+};
+
+
 
 
 int main()
